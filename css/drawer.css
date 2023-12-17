@@ -73,7 +73,7 @@
         font-size: 0.725rem;
         font-weight: bold;
         color: var(--drawerColor);
-        left: 5px;
+        left: 4px;
     }
 
     .toggleButton span {
